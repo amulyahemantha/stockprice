@@ -226,3 +226,4 @@ def update_graph(selected_dropdown_value):
 
 if __name__=='__main__':
     app.run_server(debug=True)
+    app.run_server()
